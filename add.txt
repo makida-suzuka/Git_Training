@@ -2,3 +2,6 @@
 2 テキストの追加
 3 数字を追加
 4 unison
+5 square
+6 garden
+7 invisible
